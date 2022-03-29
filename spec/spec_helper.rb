@@ -1,1 +1,1 @@
-require_relative '../app/interview_app'
+require_relative '../app/bowling_game'
